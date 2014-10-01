@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2E89CED9-375B-4F3B-AB98-8D6582475C0B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DMSwiftTableView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>cd917551-b85e-1d4b-a104-1fe8ffe601cb</key>
+		<string>http://192.168.100.3:8443/svn/iphonesvn</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>All/Swift/DMSwiftTableView/DMSwiftTableView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>cd917551-b85e-1d4b-a104-1fe8ffe601cb</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>cd917551-b85e-1d4b-a104-1fe8ffe601cb</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>cd917551-b85e-1d4b-a104-1fe8ffe601cb</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Murali</string>
+		</dict>
+	</array>
+</dict>
+</plist>
